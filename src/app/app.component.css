@@ -1,0 +1,36 @@
+#background-image {
+  background: url("truck.jpg");
+  background-repeat: no-repeat;
+    height: 969px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+   /* Do not repeat the image */
+  background-size: cover; 
+}
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
+#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #C2C2C2;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    font-size: 12px;
+    float: right;
+    position: absolute;
+    right: -16px;
+    top: 40%;
+    z-index: 1;
+    background: #DFDFDF;
+}
